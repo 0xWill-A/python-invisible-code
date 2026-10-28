@@ -1,7 +1,7 @@
 # Invisible Payloads: Hiding Code in Unicode Variation Selectors
 
 <img src="funny.png"/>
-How what looks like a single char can hold a literal chunk of code.
+How what looks like a single char can hold a literal chunk of code python actually runs
 
 ## What's going on?
 
