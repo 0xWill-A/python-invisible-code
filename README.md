@@ -13,3 +13,6 @@ That's 256 possible invisible characters.
 
 To learn more about it you can read my article : https://notyetavailable.invalid
 
+## Disclaimer
+
+This is for **educational purposes only**. It's a demonstration of how Unicode can be abused to hide data in plain sight, not a tool for doing anything malicious. Don't use it in other people code without their permissions, don't use it to deceive, attack, or mess with systems or people you don't own or have permission to test.
