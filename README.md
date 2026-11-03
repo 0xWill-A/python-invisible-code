@@ -11,7 +11,7 @@ That's 256 possible invisible characters.
 - The encoder `encoder.py` map each byte into a variation selector and automatically copies it to clipboard if you are on Windows
 - The decoder `decoder_function.py` map the variation selectors into the original bytes and then hands it to Python's `compile()` which turns the recovered source string into a code object `exec()` can run.
 
-To learn more about it you can read my article : https://notyetavailable.invalid
+To learn more about it you can read my article : https://0xwill.blog/blog/2026/10/27/python-bytecode-obfuscation/
 
 ## Disclaimer
 
